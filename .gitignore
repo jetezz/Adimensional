@@ -1,2 +1,4 @@
 tfm/Saved/*
 tfm/Intermediate/CachedAssetRegistry.bin
+tfm/Binaries/*
+tfm/Intermediate/*
